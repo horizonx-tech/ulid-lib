@@ -1,4 +1,4 @@
 [package]
-name = "ulid-lib"
+name = "ulid_lib"
 
 [dependencies]
